@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -78 -22 47 48
+WINDOW 0 0 -24 Bottom 2
+PIN -80 0 LEFT 8
+PINATTR PinName Vi
+PINATTR SpiceOrder 1
+PIN 48 0 RIGHT 8
+PINATTR PinName Vo
+PINATTR SpiceOrder 2
+PIN -48 48 BOTTOM 8
+PINATTR PinName +Vcc
+PINATTR SpiceOrder 3
+PIN 16 48 BOTTOM 8
+PINATTR PinName -Vcc
+PINATTR SpiceOrder 4
