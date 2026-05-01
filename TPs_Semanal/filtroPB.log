@@ -1,0 +1,15 @@
+LTspice 24.1.6 for Windows
+Circuit: C:\Users\Nico trombetta\Documents\UTN\TC2\TeoriaDeCircuitos2\TPs_Semanal\filtroPB.net
+Start Time: Fri May  1 19:25:39 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.197 seconds.
+
+Files loaded:
+C:\Users\Nico trombetta\Documents\UTN\TC2\TeoriaDeCircuitos2\TPs_Semanal\filtroPB.net
+C:\Users\Nico trombetta\AppData\Local\LTspice\lib\sub\UniversalOpAmp1.lib
+
